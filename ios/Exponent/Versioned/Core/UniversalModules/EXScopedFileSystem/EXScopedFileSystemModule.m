@@ -2,7 +2,6 @@
 #import "EXScopedFileSystemModule.h"
 #import "EXEnvironment.h"
 
-// TODO @sjchmiela: Should this be versioned? It is only used in detached scenario.
 NSString * const EXShellManifestResourceName = @"shell-app-manifest";
 
 @implementation EXScopedFileSystemModule
